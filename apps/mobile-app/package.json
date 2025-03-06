@@ -4,8 +4,7 @@
   "version": "1.0.0",
   "scripts": {
     "start": "NODE_ENV=development expo start",
-    "android": "expo run:android --variant release",
-    "ios": "expo run:ios"
+    "android": "expo run:android --variant release"
   },
   "dependencies": {
     "@expo/vector-icons": "14.0.4",
