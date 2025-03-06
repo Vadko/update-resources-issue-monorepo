@@ -86,9 +86,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace 'com.fieldnation.android.universal'
+    namespace 'com.vadympohlid.updatesresourcesissue'
     defaultConfig {
-        applicationId 'com.fieldnation.android.universal'
+        applicationId 'com.vadympohlid.updatesresourcesissue'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

@@ -16,7 +16,7 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.fieldnation.android.universal"
+      "package": "com.vadympohlid.updatesresourcesissue"
     },
     "web": {
       "bundler": "metro",

@@ -28,7 +28,7 @@
         <category android:name="android.intent.category.DEFAULT"/>
         <category android:name="android.intent.category.BROWSABLE"/>
         <data android:scheme="myapp"/>
-        <data android:scheme="com.fieldnation.android.universal"/>
+        <data android:scheme="com.vadympohlid.updatesresourcesissue"/>
         <data android:scheme="exp+updates-resources-issue"/>
       </intent-filter>
     </activity>

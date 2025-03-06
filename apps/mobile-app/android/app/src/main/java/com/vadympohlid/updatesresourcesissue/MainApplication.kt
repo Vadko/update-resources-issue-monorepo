@@ -1,4 +1,4 @@
-package com.fieldnation.android.universal
+package com.vadympohlid.updatesresourcesissue
 import com.intercom.reactnative.IntercomModule
 
 import android.app.Application

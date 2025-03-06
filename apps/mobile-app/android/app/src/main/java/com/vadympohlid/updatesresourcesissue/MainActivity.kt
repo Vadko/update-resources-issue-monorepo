@@ -1,4 +1,4 @@
-package com.fieldnation.android.universal
+package com.vadympohlid.updatesresourcesissue
 import expo.modules.splashscreen.SplashScreenManager
 
 import android.os.Build
