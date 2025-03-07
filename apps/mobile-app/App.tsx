@@ -1,17 +1,12 @@
-import 'react-native-gesture-handler';
-
-import { Text } from 'react-native';
-
-import { PaperProvider } from 'react-native-paper';
-import { SafeAreaProvider } from 'react-native-safe-area-context';
+import {Text} from 'react-native';
+import {MaterialCommunityIcons} from "@expo/vector-icons";
 
 export default function App() {
 
   return (
-    <SafeAreaProvider>
-      <PaperProvider>
-        <Text>sakfoafopaskfoa12</Text>
-      </PaperProvider>
-    </SafeAreaProvider>
+    <>
+      <MaterialCommunityIcons name="email" size={24} color="black"/>
+      <Text>sakfoafopaskfoa12</Text>
+    </>
   );
 }
